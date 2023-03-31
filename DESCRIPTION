@@ -1,0 +1,16 @@
+Package: ZINBMM
+Type: Package
+Title: Zero-Inflated Negative Binomial mixture model for simultaneous
+        scRNA-seq data clustering and biological relevant gene
+        selection
+Version: 0.1.0
+Author: Mingcong Wu
+Maintainer: Mingcong Wu <wumingcong@ruc.edu.cn>
+Description: This package is created for the practical application of our work 'A general mixture model for simultaneous clustering and gene selection using single-cell transcriptomic data'.
+License: GPL-2
+Encoding: UTF-8
+LazyData: true
+Imports: stats, Brobdingnag, parallel
+Depends: R (>= 3.5.0)
+NeedsCompilation: no
+Packaged: 2023-03-31 03:03:17 UTC; wumingcong
